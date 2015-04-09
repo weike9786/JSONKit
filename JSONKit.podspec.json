@@ -1,0 +1,14 @@
+{
+  "name": "JSONKit",
+  "version": "1.5pre",
+  "license": "BSD / Apache License, Version 2.0",
+  "summary": "A Very High Performance Objective-C JSON Library.",
+  "homepage": "https://github.com/johnezang/JSONKit",
+  "authors": “Richie Wu“,
+  "source": {
+    "git": "https://github.com/weike9786/JSONKit.git",
+    "commit": "dcc13cd8882fed11f4ddf6bef3173cfc45cb8144"
+  },
+  "source_files": "JSONKit.*",
+  "requires_arc": false
+}
